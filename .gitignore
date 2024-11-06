@@ -2,6 +2,7 @@
 
 # dependencies
 .idea
+workspace.xml
 .xml*
 /node_modules
 /.pnp
